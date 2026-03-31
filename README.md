@@ -33,7 +33,7 @@ These platforms help in building a strong online presence and showcasing skills.
 - Completed a beginner-level problem on HackerRank  
 - Created a Google Form for Digital Literacy Awareness Quiz  
 
-🔗 **Google Form Link:** [Paste your link here]
+🔗 **Google Form Link:** https://forms.gle/E1sRqYyR6HNF3khv7
 
 ---
 
